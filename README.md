@@ -8,7 +8,7 @@
 - SQL (MySQL / BigQuery)
 - Google Analytics 4
 - Tableau
-- Excel / Google Sheets (Advanced)
+- Excel
 - Marketing strategy & campaign performance analysis
 
 ## Portfolio
