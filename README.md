@@ -12,9 +12,9 @@
 - Marketing strategy & campaign performance analysis
 
 ## Portfolio
-- [Campaign Performance Analysis](link)
-- [Social Media Engagement Dashboard](link)
-- [SQL Funnel Analysis](link)
+- 
+- 
+- 
 
 ## Connect with me
 - LinkedIn: 
